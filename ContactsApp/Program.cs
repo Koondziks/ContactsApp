@@ -6,7 +6,7 @@ namespace ContactsApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello from the PhoneBook app");
         }
     }
 }
